@@ -1,0 +1,13 @@
+server:
+  port: 8081
+
+#person:
+#  name: kaka
+#  age: 18
+#  maps: {k1: v1,k2: v2}
+#  lists:
+#    - Jack
+#    - Eric
+#  dog:
+#    name: 阿黄
+#    age: 18
